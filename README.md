@@ -12,7 +12,7 @@
 - **Оптимизация Kubernetes** — Production-ready конфигурации, мониторинг, auto-scaling
 - **AI-Augmented DevOps** — AIOps для observability, автоматизация incident response
 
-📩 **Контакты**: [Telegram](#) | [Upwork](#) | [Habr](#)
+📩 **Контакты**: [Telegram](https://t.me/yurka_e) | [Upwork](#) | [Habr](#)
 
 ---
 
@@ -36,18 +36,18 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=impetus82&repo=k8s-production-configs&theme=dark" />
       </a>
       <br />
-      <strong>Production Kubernetes Configs</strong>
+      <sub><b>Production Kubernetes Configs</b></sub>
       <br />
-      Helm charts, Kustomize, GitOps-ready manifests
+      <sub>Helm charts, Kustomize, GitOps-ready manifests</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/impetus82/terraform-cloud-patterns">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=impetus82&repo=terraform-cloud-patterns&theme=dark" />
       </a>
       <br />
-      <strong>Multi-Cloud Terraform Modules</strong>
+      <sub><b>Multi-Cloud Terraform Modules</b></sub>
       <br />
-      AWS/GCP/Yandex Cloud IaC patterns
+      <sub>AWS/GCP/Yandex Cloud IaC patterns</sub>
     </td>
   </tr>
 </table>
@@ -57,11 +57,12 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impetus82&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=impetus82&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impetus82&theme=dark" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impetus82&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impetus82&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -78,5 +79,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=impetus82&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=impetus82&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⭐ Star my repositories if you find them useful!</i>
 </p>
