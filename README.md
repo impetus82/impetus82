@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/impetus82/terraform-cloud-patterns">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=impetus82&repo=terraform-cloud-patterns&theme=dark" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=impetus82&repo=terraform-cloud-patterns&theme=dark" />
       </a>
       <br />
       <sub><b>Multi-Cloud Terraform Modules</b></sub>
