@@ -58,7 +58,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=impetus82&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impetus82&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=impetus82&theme=dark" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
