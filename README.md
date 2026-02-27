@@ -1,22 +1,22 @@
-# 👋 Привет! Я Юрий — Fullstack DevOps Engineer
+#  Привет! Я Юрий — Fullstack DevOps Engineer
 
 **Специализация**: AI-Augmented DevOps | Cloud Migrations | Kubernetes Optimization  
 **Рынки**: 🇷🇺 Россия (Telegram, Freelance.ru, Habr) | 🌍 International (Upwork, LinkedIn)
 
 ---
 
-## 🚀 Услуги
+## Услуги
 
 - **Аудит инфраструктуры** — Поиск узких мест в CI/CD, анализ безопасности, оптимизация затрат
 - **Миграция в облака** — AWS/GCP/Yandex Cloud с zero-downtime стратегиями
 - **Оптимизация Kubernetes** — Production-ready конфигурации, мониторинг, auto-scaling
 - **AI-Augmented DevOps** — AIOps для observability, автоматизация incident response
 
-📩 **Контакты**: [Telegram](https://t.me/yurka_e) | [Upwork](#) | [Habr](#)
+ **Контакты**: [Telegram](https://t.me/yurka_e) | [Upwork](#) | [Habr](#)
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Infrastructure**: Terraform • Ansible • Kubernetes • Helm • ArgoCD  
 **CI/CD**: GitHub Actions • GitLab CI • Jenkins  
@@ -27,7 +27,7 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -67,12 +67,12 @@
 
 ---
 
-## 💡 Open To
+## Open To
 
-✅ Remote contracts (fulltime/part-time)  
-✅ Technical consulting & audits  
-✅ Cloud migration projects  
-✅ AI-augmented DevOps implementation
+Remote contracts (fulltime/part-time)  
+Technical consulting & audits  
+Cloud migration projects  
+AI-augmented DevOps implementation
 
 **Payment Methods**: USDT (TRC-20) • Wise • PayPal • YooMoney (РФ)
 
