@@ -1,87 +1,33 @@
-#  Привет! Я Юрий — Fullstack DevOps Engineer
+# Hey, I'm Tonchain — DeFi Infrastructure Engineer
 
-**Специализация**: AI-Augmented DevOps | Cloud Migrations | Kubernetes Optimization  
-**Рынки**: 🇷🇺 Россия (Telegram, Freelance.ru, Habr) | 🌍 International (Upwork, LinkedIn)
+**Focus**: Uniswap V4 Hooks · On-chain order execution · DeFi tooling  
+**Currently**: Building production-grade limit orders on Base & Unichain  
+**Program**: [Uniswap Hook Incubator (UHI9)](https://atrium.academy) · Cohort 9
 
 ---
 
-## Услуги
+## What I'm Building
 
-- **Аудит инфраструктуры** — Поиск узких мест в CI/CD, анализ безопасности, оптимизация затрат
-- **Миграция в облака** — AWS/GCP/Yandex Cloud с zero-downtime стратегиями
-- **Оптимизация Kubernetes** — Production-ready конфигурации, мониторинг, auto-scaling
-- **AI-Augmented DevOps** — AIOps для observability, автоматизация incident response
+### 🔁 [limit-order-hook-v4](https://github.com/impetus82/limit-order-hook-v4)
+Fully on-chain limit orders for Uniswap V4 — no off-chain relayers, no trusted intermediaries.
 
- **Контакты**: [Telegram](https://t.me/yurka_e) | [Upwork](#) | [Habr](#)
+- **Deployed**: Base mainnet (`0x45d971...c4040`) · Unichain mainnet (`0x9138F6...8040`)
+- **Architecture**: `afterSwap` hook · O(1) tick bucket linked list · anti-DoS graceful execution
+- **Fee model**: 5 BPS execution fee · gas-metered batch execution · 150k gas threshold
+- **Stack**: Solidity 0.8.26 · Uniswap V4 · Foundry · 38/38 tests passing
+- **Frontend**: [Live demo](https://limit-order-hook-v4.vercel.app) — Next.js · Wagmi v2 · RainbowKit
 
 ---
 
 ## Tech Stack
 
-**Infrastructure**: Terraform • Ansible • Kubernetes • Helm • ArgoCD  
-**CI/CD**: GitHub Actions • GitLab CI • Jenkins  
-**Monitoring**: Prometheus • Grafana • ELK Stack • Datadog  
-**Cloud**: AWS (EKS, EC2, Lambda) • GCP (GKE) • Yandex Cloud  
-**Languages**: Python • Bash • Go  
-**AI Tools**: LangChain • OpenAI API • Cursor IDE
+**Smart Contracts**: Solidity · Foundry · Uniswap V4 · OpenZeppelin  
+**Frontend**: Next.js · TypeScript · Wagmi v2 · RainbowKit  
+**Infra**: Gnosis Safe (2-of-3 multisig) · Vercel · GitHub Actions  
+**Chains**: Base · Unichain · Arbitrum (coming)
 
 ---
 
-## Featured Projects
+## Contact
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/impetus82/k8s-production-configs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=impetus82&repo=k8s-production-configs&theme=dark" />
-      </a>
-      <br />
-      <sub><b>Production Kubernetes Configs</b></sub>
-      <br />
-      <sub>Helm charts, Kustomize, GitOps-ready manifests</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/impetus82/terraform-cloud-patterns">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=impetus82&repo=terraform-cloud-patterns&theme=dark" />
-      </a>
-      <br />
-      <sub><b>Multi-Cloud Terraform Modules</b></sub>
-      <br />
-      <sub>AWS/GCP/Yandex Cloud IaC patterns</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impetus82&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=impetus82&theme=dark" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impetus82&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## Open To
-
-Remote contracts (fulltime/part-time)  
-Technical consulting & audits  
-Cloud migration projects  
-AI-augmented DevOps implementation
-
-**Payment Methods**: USDT (TRC-20) • Wise • PayPal • YooMoney (РФ)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=impetus82&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⭐ Star my repositories if you find them useful!</i>
-</p>
+[Telegram](https://t.me/yurka_e) · egoshin_crypto@proton.me
